@@ -4,3 +4,5 @@ okok
 new line
 
 new code
+
+new line of code after commit ""
